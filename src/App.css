@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.App p {
+  position: relative;
+  box-sizing: border-box;
+}
+.apple{
+  text-align: center;
+  max-height: 60px;
+  justify-content: center;
+}
+.toggle{
+  justify-content: center;
+  margin-top: 10%;
+}
